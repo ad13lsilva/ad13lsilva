@@ -1,57 +1,18 @@
 <div align="center">
   <h1>Hey There!, Adiel</h1>
-  <p>[Sua descrição de desenvolvedor, por exemplo: "I'm a software developer from [Seu País]."]</p>
-  <p>[Seu foco principal, por exemplo: "Focused on creating impactful web applications that improve lives."]</p>
+  <p>Aspirante a Security DevOps.</p>
+  <p>Focado em criar soluções robustas com .NET e Java, e apaixonado por infraestrutura e segurança da informação.</p>
   <p>
-    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black" alt="JavaScript" />
-    <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=black" alt="React" />
-    <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white" alt="Node.js" />
-    <img src="https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=TailwindCSS&logoColor=white" alt="TailwindCSS" />
-    <img src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=Go&logoColor=white" alt="Go" />
-    <img src="https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white" alt="Arduino" />
+    <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET" />
+    <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" alt="Java" />
+    <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS" />
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+    <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+    <img src="https://img.shields.io/badge/Security-2A629A?style=flat-square&logo=security&logoColor=white" alt="Segurança da Informação" />
   </p>
   <p>
-    <img src="https://komarev.com/ghpvc/?username=SEU_USERNAME_AQUI" alt="Profile views" /> 
+    <img src="https://komarev.com/ghpvc/?username=ad13lsilva" alt="Profile views" /> 
   </p>
   <p>✨✨✨</p>
   <p>"Happy Coding" 💻🧑‍💻</p>
-</div>
-
-### Featured
-
-<div style="display: flex; flex-wrap: wrap; justify-content: center;">
-
-<a href="https://github.com/ad13lsilva/ad13lsilva/edit/main/README.md" style="text-decoration: none; color: inherit; margin: 10px;">
-  <div style="background-color: #1a1a1a; border-radius: 10px; padding: 20px; width: 300px; border: 1px solid #444;">
-    <h3><a href="https://github.com/SEU_USERNAME_AQUI/SEU_REPOSITORIO_AQUI" style="text-decoration: none; color: inherit;">NomeDoSeuProjeto1</a></h3>
-    <p>Descrição do seu projeto, igual à que aparece no GitHub.</p>
-    <div style="display: flex; align-items: center; margin-top: 10px;">
-      <span style="font-size: 14px; margin-right: 10px;">⭐ [Número de estrelas]</span>
-      <span style="font-size: 14px; margin-right: 10px;">🍴 [Número de forks]</span>
-    </div>
-  </div>
-</a>
-
-<a href="https://github.com/SEU_USERNAME_AQUI/SEU_REPOSITORIO_AQUI" style="text-decoration: none; color: inherit; margin: 10px;">
-  <div style="background-color: #1a1a1a; border-radius: 10px; padding: 20px; width: 300px; border: 1px solid #444;">
-    <h3><a href="https://github.com/SEU_USERNAME_AQUI/SEU_REPOSITORIO_AQUI" style="text-decoration: none; color: inherit;">NomeDoSeuProjeto2</a></h3>
-    <p>Descrição do seu projeto.</p>
-    <div style="display: flex; align-items: center; margin-top: 10px;">
-      <span style="font-size: 14px; margin-right: 10px;">⭐ [Número de estrelas]</span>
-      <span style="font-size: 14px; margin-right: 10px;">🍴 [Número de forks]</span>
-    </div>
-  </div>
-</a>
-
-<a href="https://github.com/ad13lsilva/ad13lsilva/edit/main/README.md" style="text-decoration: none; color: inherit; margin: 10px;">
-  <div style="background-color: #1a1a1a; border-radius: 10px; padding: 20px; width: 300px; border: 1px solid #444;">
-    <h3><a href="https://github.com/ad13lsilva/ad13lsilva/edit/main/README.mdI" style="text-decoration: none; color: inherit;">NomeDoSeuProjeto3</a></h3>
-    <p>Descrição do seu projeto.</p>
-    <div style="display: flex; align-items: center; margin-top: 10px;">
-      <span style="font-size: 14px; margin-right: 10px;">⭐ [Número de estrelas]</span>
-      <span style="font-size: 14px; margin-right: 10px;">🍴 [Número de forks]</span>
-    </div>
-  </div>
-</a>
-
 </div>
