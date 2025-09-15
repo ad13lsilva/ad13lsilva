@@ -1,6 +1,5 @@
 <div align="center">
-  <img src="https://www.canva.com/design/DAGye01kskM/j3bS1zmN4Q4GCJp9LKT8dg/view?utm_content=DAGye01kskM&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h1b0c90a25f" alt="profile views" width="100"/>
-  <h1>Hey There!, I am [Seu Nome]</h1>
+  <h1>Hey There!, Adiel</h1>
   <p>[Sua descrição de desenvolvedor, por exemplo: "I'm a software developer from [Seu País]."]</p>
   <p>[Seu foco principal, por exemplo: "Focused on creating impactful web applications that improve lives."]</p>
   <p>
